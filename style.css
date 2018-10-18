@@ -1,0 +1,25 @@
+.brand-logo {
+	font-family: 'Lobster', cursive;
+	margin-left: 1em;
+}
+
+.container {
+	display: flex;
+	
+}
+.row .col.m7{
+	width: 100%;
+}
+.card-image:hover {
+	opacity: 0.8;
+}
+.right {
+	font-family: 'Lobster Two', cursive;
+}
+.some {
+	text-align: center;
+	color: orange;
+	font-size: 3em;
+	font-family: 'Lobster', cursive;
+	margin: 0px;
+}
